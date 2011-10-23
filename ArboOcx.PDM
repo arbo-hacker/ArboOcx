@@ -1,0 +1,403 @@
+[Root]
+Most Recent Package=ocx 5
+
+
+[Package|Paquete de Internet 1|Root]
+SubWizProgID=PDWizard.InetCABPkgSubWiz
+BuildFolder=C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\Paquete
+Controls Design-Time Support=Yes
+
+[Package|Paquete de Internet 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Paquete de Internet 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete de Internet 1|Files Found]
+
+[Package|Paquete de Internet 1|Files Released]
+gdi.dll=
+user.dll=
+
+[Package|Paquete de Internet 1|Missing Dependency Information]
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\dao360.dll=
+C:\WINDOWS\SYSTEM32\scrrun.dll=
+C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\Data\Data.exe=
+
+[Package|Paquete de Internet 1|Out-of-Date Dependency Information]
+
+[Package|Paquete de Internet 1|Files Added]
+C:\WINDOWS\System32\MsStkPrp.dll=Este archivo es necesario para compatibilidad en tiempo de diseño con controles de usuario
+C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\Data\Data.exe=
+
+[Package|Paquete de Internet 1|Files Removed]
+
+[Package|Paquete de Internet 1|Files In Project]
+C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\ArboOcx.ocx=Yes
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=Yes
+C:\WINDOWS\SYSTEM32\oleaut32.dll=Yes
+C:\WINDOWS\SYSTEM32\olepro32.dll=Yes
+C:\WINDOWS\SYSTEM32\asycfilt.dll=Yes
+C:\WINDOWS\SYSTEM32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM32\VB6ES.DLL=Yes
+C:\WINDOWS\SYSTEM32\scrrun.dll=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\dao360.dll=Yes
+C:\WINDOWS\SYSTEM32\MSSTKPRP.DLL=Yes
+C:\WINDOWS\SYSTEM32\MSPRPES.DLL=Yes
+C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\Data\Data.exe=Yes
+
+[Package|Paquete de Internet 1|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de Internet 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de Internet 1|Install Locations]
+
+[Package|Paquete de Internet 1|Configure Shared Files]
+Applicable=
+
+[Package|Paquete de Internet 1|ComponentInfo]
+ArboOcx.ocx=thiscab
+msvbvm60.dll=thiscab
+oleaut32.dll=thiscab
+olepro32.dll=thiscab
+asycfilt.dll=thiscab
+stdole2.tlb=thiscab
+COMCAT.DLL=thiscab
+VB6ES.DLL=thiscab
+scrrun.dll=thiscab
+dao360.dll=thiscab
+MSSTKPRP.DLL=thiscab
+MSPRPES.DLL=thiscab
+Data.exe=thiscab
+
+[Package|Paquete de Internet 1|ObjectInfo]
+Arbo=false;false
+XPButton=false;false
+Xp_ProgressBar=false;false
+TextBox=false;false
+
+[Package|Paquete de Internet 1|Package]
+PackageFolder=C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\Paquete
+ProjectFolder=C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx
+ServerSideCab=C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\Paquete\ArboOcx.CAB
+File1=C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\Paquete\ArboOcx.CAB
+File2=C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\Paquete\ArboOcx.HTM
+Handler1=PDWizard.WebPostDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+
+
+[Package|Paquete de instalación estándar 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\Paquete 5
+Controls Design-Time Support=Yes
+
+[Package|Paquete de instalación estándar 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete de instalación estándar 1|Files Found]
+Data.exe=C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx\Data.exe
+
+[Package|Paquete de instalación estándar 1|Files Released]
+gdi.dll=
+user.dll=
+
+[Package|Paquete de instalación estándar 1|Missing Dependency Information]
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\dao360.dll=
+C:\WINDOWS\SYSTEM32\scrrun.dll=
+C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\Data\Data.exe=
+C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx\Data.exe=
+
+[Package|Paquete de instalación estándar 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|Paquete de instalación estándar 1|Files Added]
+c:\windows\system32\msstkprp.dll=Este archivo es necesario para compatibilidad en tiempo de diseño con controles de usuario
+data.exe=
+
+[Package|Paquete de instalación estándar 1|Files Removed]
+
+[Package|Paquete de instalación estándar 1|Files In Project]
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM32\VB6ES.DLL=Yes
+C:\WINDOWS\SYSTEM32\scrrun.dll=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\dao360.dll=Yes
+C:\WINDOWS\SYSTEM32\MSSTKPRP.DLL=Yes
+C:\WINDOWS\SYSTEM32\MSPRPES.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx\ArboOcx.ocx=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\WINDOWS\system32\msvcrt.dll=Yes
+C:\WINDOWS\system32\scrrnes.dll=Yes
+C:\WINDOWS\system32\msjet40.dll=Yes
+C:\WINDOWS\system32\msjter40.dll=Yes
+C:\WINDOWS\system32\msjint40.dll=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\mswstr10.dll=Yes
+C:\WINDOWS\system32\mswdat10.dll=Yes
+C:\WINDOWS\system32\msrd2x40.dll=Yes
+C:\WINDOWS\system32\msrd3x40.dll=Yes
+C:\WINDOWS\system32\msrepl40.dll=Yes
+C:\WINDOWS\system32\msjtes40.dll=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx\Data.exe=Yes
+
+[Package|Paquete de instalación estándar 1|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Install Locations]
+C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\ArboOcx.ocx=$(AppPath)
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\scrrun.dll=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\dao360.dll=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM32\MSSTKPRP.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSPRPES.DLL=$(WinSysPath)
+C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\Data\Data.exe=$(AppPath)
+C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx\ArboOcx.ocx=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\scrrnes.dll=$(WinSysPath)
+C:\WINDOWS\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx\Data.exe=$(AppPath)
+
+[Package|Paquete de instalación estándar 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\ArboOcx.ocx=Yes
+C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\Data\Data.exe=No
+C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx\ArboOcx.ocx=No
+C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx\Data.exe=No
+
+[Package|Paquete de instalación estándar 1|ComponentInfo]
+ArboOcx.ocx=thiscab
+msvbvm60.dll=thiscab
+oleaut32.dll=thiscab
+olepro32.dll=thiscab
+asycfilt.dll=thiscab
+stdole2.tlb=thiscab
+COMCAT.DLL=thiscab
+VB6ES.DLL=thiscab
+scrrun.dll=thiscab
+dao360.dll=thiscab
+MSSTKPRP.DLL=thiscab
+MSPRPES.DLL=thiscab
+Data.exe=thiscab
+
+[Package|Paquete de instalación estándar 1|ObjectInfo]
+Arbo=false;false
+XPButton=false;false
+Xp_ProgressBar=false;false
+TextBox=false;false
+
+[Package|Paquete de instalación estándar 1|Distribution]
+Type=single
+Size=
+Title=ArboOcx 5
+
+[Package|Paquete de instalación estándar 1|Package]
+PackageFolder=C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\Paquete 5
+ProjectFolder=C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx
+ServerSideCab=
+File1=C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\Paquete 5\setup.exe
+File2=C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\Paquete 5\Setup.Lst
+File3=C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\Paquete 5\ArboOcx.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|ocx 5|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx\ArboOcx 5
+Controls Design-Time Support=Yes
+
+[Package|ocx 5|Configure DAO ISAMs]
+Applicable=No
+
+[Package|ocx 5|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|ocx 5|Files Found]
+Data.exe=C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx\Data.exe
+
+[Package|ocx 5|Files Released]
+gdi.dll=
+user.dll=
+
+[Package|ocx 5|Missing Dependency Information]
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\dao360.dll=
+C:\WINDOWS\SYSTEM32\scrrun.dll=
+C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\Data\Data.exe=
+C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx\Data.exe=
+
+[Package|ocx 5|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|ocx 5|Files Added]
+c:\windows\system32\msstkprp.dll=Este archivo es necesario para compatibilidad en tiempo de diseño con controles de usuario
+c:\documents and settings\arbo_hacker\mis documentos\visual basic 6\arboocx\data.exe=
+
+[Package|ocx 5|Files Removed]
+
+[Package|ocx 5|Files In Project]
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM32\VB6ES.DLL=Yes
+C:\WINDOWS\SYSTEM32\scrrun.dll=Yes
+C:\WINDOWS\SYSTEM32\MSSTKPRP.DLL=Yes
+C:\WINDOWS\SYSTEM32\MSPRPES.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx\ArboOcx.ocx=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=Yes
+C:\WINDOWS\system32\msvcrt.dll=Yes
+C:\WINDOWS\system32\scrrnes.dll=Yes
+C:\WINDOWS\system32\msjet40.dll=Yes
+C:\WINDOWS\system32\msjter40.dll=Yes
+C:\WINDOWS\system32\msjint40.dll=Yes
+C:\WINDOWS\system32\vbajet32.dll=Yes
+C:\WINDOWS\system32\expsrv.dll=Yes
+C:\WINDOWS\system32\mswstr10.dll=Yes
+C:\WINDOWS\system32\mswdat10.dll=Yes
+C:\WINDOWS\system32\msrd2x40.dll=Yes
+C:\WINDOWS\system32\msrd3x40.dll=Yes
+C:\WINDOWS\system32\msrepl40.dll=Yes
+C:\WINDOWS\system32\msjtes40.dll=Yes
+C:\WINDOWS\system32\VB5DB.DLL=Yes
+C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx\Data.exe=Yes
+C:\WINDOWS\system32\dao360.dll=Yes
+
+[Package|ocx 5|Configure Registry Files]
+Applicable=No
+
+[Package|ocx 5|Configure Remote Servers]
+Applicable=No
+
+[Package|ocx 5|Install Locations]
+C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\ArboOcx.ocx=$(AppPath)
+C:\WINDOWS\SYSTEM32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM32\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\scrrun.dll=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\dao360.dll=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM32\MSSTKPRP.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM32\MSPRPES.DLL=$(WinSysPath)
+C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\Data\Data.exe=$(AppPath)
+C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx\ArboOcx.ocx=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\scrrnes.dll=$(WinSysPath)
+C:\WINDOWS\system32\msjet40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjter40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjint40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswstr10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\mswdat10.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd2x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrd3x40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msrepl40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\msjtes40.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx\Data.exe=$(AppPath)
+C:\WINDOWS\system32\dao360.dll=$(MSDAOPath)
+
+[Package|ocx 5|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\ArboOcx.ocx=Yes
+C:\Documents and Settings\Alejandro\Mis documentos\Documentos\ArboOcx\Data\Data.exe=No
+C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx\ArboOcx.ocx=No
+C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx\Data.exe=No
+
+[Package|ocx 5|ComponentInfo]
+ArboOcx.ocx=thiscab
+msvbvm60.dll=thiscab
+oleaut32.dll=thiscab
+olepro32.dll=thiscab
+asycfilt.dll=thiscab
+stdole2.tlb=thiscab
+COMCAT.DLL=thiscab
+VB6ES.DLL=thiscab
+scrrun.dll=thiscab
+dao360.dll=thiscab
+MSSTKPRP.DLL=thiscab
+MSPRPES.DLL=thiscab
+Data.exe=thiscab
+
+[Package|ocx 5|ObjectInfo]
+Arbo=false;false
+XPButton=false;false
+Xp_ProgressBar=false;false
+TextBox=false;false
+
+[Package|ocx 5|Distribution]
+Type=single
+Size=
+Title=ArboOcx 5
+
+[Package|ocx 5|Package]
+PackageFolder=C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx\ArboOcx 5
+ProjectFolder=C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx
+ServerSideCab=
+File1=C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx\ArboOcx 5\setup.exe
+File2=C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx\ArboOcx 5\Setup.Lst
+File3=C:\Documents and Settings\ArBo_HaCkEr\Mis documentos\Visual Basic 6\ArboOcx\ArboOcx 5\ArboOcx.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
